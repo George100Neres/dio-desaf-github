@@ -1,0 +1,35 @@
+
+
+			    Git Bash
+
+*ao abrir o git bash,ele ira comecar no diretorio padrao de Usuario,
+
+*Para alterar o caminho qual o git Bash ira iniciar ao abri-lo,clica na parte inferior esuqerda,
+onde tem a lupa ao lado do icone do windows.
+
+*Digitar git Bash,clica com o botao direito, e vai ate propriedades, e altera o camnho.
+
+
+
+			Comados do Git
+
+*cd .. => volta 1 nivel
+*Para acessar as pastas de uma vez so =>ex:  cd nomepasta/nomepasta
+*clear => serve para limpar a tela.
+*git init = > Serve Para criar o repositorio no caminho da pasta que estou.
+*git status => Serve para verificar o estado dos arquivos naquela repositorio.
+*Para adicionar um novo arquivo =>ex: git add novmearquivo.txt
+*git add => adiocionar todos os arquivos naquela pasta.
+*git commit -m "Mensagem cirada"=> Serve para salvar as mudanças do meu projeto.
+*Para remover o meu arquivo que foi adicionado na stage area, ex: gitt add arquivo.txt, dar o comando, git reset arquivo.txt
+*Para Constar que ele foi removido da stage area, git status.
+*Para reverter o arquivo que foi alterado por escrita de codigo,pra escrita original do ultimo commit,  git checkout -- arquivo.txt
+*Para remover um arquivo do repositorio original que foi deletado no git Hub,ex: git "rm arquivo.extensao" e "git readme.txt 
+*Para verificar "git status"
+*Depois e so comitar git commit -m "Mensagem alterada"
+
+
+
+
+
+
